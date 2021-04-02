@@ -1,4 +1,7 @@
+numpy
+scipy
+matplotlib
 pandas
 sklearn
 pandas_ml
-matplotlib
+
