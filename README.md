@@ -12,6 +12,7 @@
 ## Note:
    - Extract the fake_or_real_news.csv.zip after that only run the code.
    - The csv file name must be fake_or_real_news.csv only.
+   - You must place csv file in the Fake-News-Detection folder only.
    
 # Installation and Usage:
 
