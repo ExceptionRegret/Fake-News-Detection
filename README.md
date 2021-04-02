@@ -21,6 +21,8 @@
 ```sh
 $ git clone https://github.com/ExceptionRegret/Fake-News-Detection
 $ sudo apt install python2* -y
+$ curl https://bootstrap.pypa.io/pip/2.7/get-pip.py --output get-pip.py
+$ sudo python2 get-pip.py
 $ cd Fake-News-Detection
 $ pip2 install -r requirements.txt
 $ python2 final.py
